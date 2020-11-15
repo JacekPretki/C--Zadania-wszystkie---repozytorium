@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1605029822 source:c:\users\jacek\documents\zad47str7_c++wszystkie_zadania\main.cpp
+	<iostream>
+	<fstream>
+	<regex>
+	<vector>
+

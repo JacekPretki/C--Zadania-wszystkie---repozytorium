@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1605263363 source:c:\users\jacek\documents\zad74str11_c++wszystkie_zadania\main.cpp
+	<iostream>
+	<fcntl.h>
+	<cstdlib>
+	<ctime>
+	<array>
+	<Windows.h>
+	<fstream>
+

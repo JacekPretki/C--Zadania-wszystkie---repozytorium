@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605130633 source:c:\users\jacek\documents\zad75str11_c++wszystkie_zadania\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+
